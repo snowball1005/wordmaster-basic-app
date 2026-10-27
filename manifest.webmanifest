@@ -1,0 +1,25 @@
+{
+  "name": "워드마스터 BASIC 성장 탐험",
+  "short_name": "워드마스터",
+  "description": "매일 5개씩 단어, 문장, 서술형을 배우는 오프라인 영어 학습 앱",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f4fb",
+  "theme_color": "#6658db",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
